@@ -14,8 +14,8 @@
       <header> <br>
         <h1 id="logo"><a href="#">Groupe N°2<br>
           </a></h1>
-        <p>TechMed et SETSIS</p>
-        <p>Projet sur: L'agriculture Urbaine</p>
+        <p><span style="color: #020502;">TechMed et SETSIS</span></p>
+        <p><span style="color: #020502;">Projet sur: L'agriculture Urbaine</span></p>
       </header>
       <nav id="nav">
         <ul>
@@ -42,7 +42,7 @@
         <!-- One -->
         <section id="one">
           <div class="image main" data-position="center"><img src="file:///C:/Users/HP/Desktop/Image_site/Image1.jpg"
-              alt="Hfghcfghf" title="AU"><br>
+              alt="Hfghcfghf" title="AU" style="top: 0px; left: 1px; width: 986px; height: 303px;"><br>
           </div>
           <div class="container">
             <header class="major">
