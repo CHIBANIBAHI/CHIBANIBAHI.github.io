@@ -654,7 +654,7 @@
    <m:brkBin m:val="before"/>   <m:brkBinSub m:val="&#45;-"/>   <m:smallFrac m:val="off"/>   <m:dispDef/>
    <m:lMargin m:val="0"/>   <m:rMargin m:val="0"/>   <m:defJc m:val="centerGroup"/>   <m:wrapIndent m:val="1440"/>
    <m:intLim m:val="subSup"/>   <m:naryLim m:val="undOvr"/>  </m:mathPr></w:WordDocument></xml><![endif]-->
-            <p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><!--[if gte mso 9]><xml>
+            <p class="MsoListParagraph" style="text-indent: -18pt; height: 1px;"><!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"  DefSemiHidden="false" DefQFormat="false" DefPriority="99"  LatentStyleCount="376">  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>  <w:LsdException Locked="false" Priority="9" SemiHidden="true"   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
    UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>  <w:LsdException Locked="false" Priority="9" SemiHidden="true"   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
@@ -814,8 +814,7 @@
                 des plantes / serres / jardins (réponses multiples)</span></p>
             <img src="C:%5CUsers%5CHP%5CDocuments%5CGitHub%5CCHIBANIBAHI.github.io%5Cimages/Image11.PNG"
               alt="" longdesc="C:\Users\HP\Documents\GitHub\CHIBANIBAHI.github.io\images/Image11.PNG"><img
-              src="C:%5CUsers%5CHP%5CDocuments%5CGitHub%5CCHIBANIBAHI.github.io%5Cimages/Image11.png"
-              style="width: 703px; margin-left: 42px;" longdesc="C:\Users\HP\Documents\GitHub\CHIBANIBAHI.github.io\images/Image11.png"></div>
+              src="images/Image11.png" style="width: 703px; margin-left: 42px;"></div>
           <div class="container" style="width: 16px; margin-left: 83px;"><!--[if gte mso 9]><xml>
  <w:WordDocument>  <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>  <w:TrackMoves/>
@@ -848,8 +847,7 @@
               alt="" longdesc="C:\Users\HP\Documents\GitHub\CHIBANIBAHI.github.io\images/Image22.png"><img
               src="C:%5CUsers%5CHP%5CDocuments%5CGitHub%5CCHIBANIBAHI.github.io%5Cimages/Image22.png"
               alt="" longdesc="C:\Users\HP\Documents\GitHub\CHIBANIBAHI.github.io\images/Image22.png"><img
-              src="file:///C:/Users/HP/Documents/GitHub/CHIBANIBAHI.github.io/images/Image22.png"
-              alt="" style="width: 697px; margin-left: 108px;"></div>
+              src="images/Image22.png" style="width: 697px; margin-left: 108px;"></div>
           <div class="container" style="width: 788px; margin-left: 83px;"><!--[if gte mso 9]><xml>
  <w:WordDocument>  <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>  <w:TrackMoves/>
@@ -878,8 +876,7 @@
                 pourcentage de personnes qui pourraient être intéressé par le
                 kit (réponse
                 unique), est de&nbsp;:<span style="mso-spacerun:yes">&nbsp; </span></span></p>
-            <img src="file:///C:/Users/HP/Documents/GitHub/CHIBANIBAHI.github.io/images/Image33.png"
-              style="width: 694px; margin-left: 110px;" longdesc="file:///C:/Users/HP/Documents/GitHub/CHIBANIBAHI.github.io/images/Image33.png"></div>
+            <img src="images/Image33.png" style="width: 694px; margin-left: 110px;"></div>
           <div class="container" style="width: 788px; margin-left: 83px;"><span
               style="mso-bidi-font-family:Calibri" lang="FR"><span style="mso-list:Ignore"><span
                   style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
@@ -3103,8 +3100,8 @@
               nécessaire pour le bien etre de la plante ( humidité du sol,
               température, lumière,..)</p>
             <div class="features">
-              <article> <a href="#" class="image"><img src="C:%5CUsers%5CHP%5CDocuments%5CGitHub%5CCHIBANIBAHI.github.io%5Cimages/Capture3.PNG"
-                    style="width: 328px; height: 226px;" longdesc="C:\Users\HP\Documents\GitHub\CHIBANIBAHI.github.io\images/Capture3.PNG"></a>
+              <article> <a href="#" class="image"><img src="images/Capture3.PNG"
+                    style="width: 328px; height: 226px;"></a>
                 <div class="inner">
                   <h4>Mini-serre</h4>
                   <p style="text-align: justify;">Nous avons pris une petite
@@ -3115,8 +3112,8 @@
                     bon moment (arrosage, aération,.....) </p>
                 </div>
               </article>
-              <article> <a href="#" class="image"><img src="C:%5CUsers%5CHP%5CDocuments%5CGitHub%5CCHIBANIBAHI.github.io%5Cimages/Capture.PNG"
-                    style="width: 327px; height: 211px;" longdesc="C:\Users\HP\Documents\GitHub\CHIBANIBAHI.github.io\images/Capture.PNG"></a>
+              <article> <a href="#" class="image"><img src="images/Capture.PNG"
+                    style="width: 327px; height: 211px;"></a>
                 <div class="inner">
                   <h4>Le kit utilisé (SenseCAP K1100)</h4>
                   <ul style="text-align: justify;">
@@ -3129,8 +3126,8 @@
                   </ul>
                 </div>
               </article>
-              <article> <a href="#" class="image"><img src="C:%5CUsers%5CHP%5CDocuments%5CGitHub%5CCHIBANIBAHI.github.io%5Cimages/Capture2.PNG"
-                    style="width: 325px; height: 196px;" longdesc="C:\Users\HP\Documents\GitHub\CHIBANIBAHI.github.io\images/Capture2.PNG"></a>
+              <article> <a href="#" class="image"><img src="images/Capture2.PNG"
+                    style="width: 325px; height: 196px;"></a>
                 <div class="inner">
                   <h4>Fonctionnement du Kit</h4>
                   <p style="text-align: justify;">Nous avons configuré notre
