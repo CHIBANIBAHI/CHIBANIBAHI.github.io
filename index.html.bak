@@ -98,7 +98,8 @@
                     bon moment (arrosage, aération,.....) </p>
                 </div>
               </article>
-              <article> <a href="#" class="image"><img src="../../../Desktop/Image_site/Capture.PNG"></a>
+              <article> <a href="#" class="image"><img src="../../../Desktop/Image_site/Capture.PNG"
+                    style="width: 392px; height: 253px;"></a>
                 <div class="inner">
                   <h4>Le kit utilisé (SenseCAP K1100)</h4>
                   <ul style="text-align: justify;">
@@ -112,7 +113,7 @@
                 </div>
               </article>
               <article> <a href="#" class="image"><img src="../../../Desktop/Image_site/Capture2.PNG"
-                    style="width: 446px; height: 258px;"></a>
+                    style="width: 403px; height: 232px;"></a>
                 <div class="inner">
                   <h4>Fonctionnement du Kit</h4>
                   <p style="text-align: justify;">Nous avons configuré notre
